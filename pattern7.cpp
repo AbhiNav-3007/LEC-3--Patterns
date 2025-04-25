@@ -1,3 +1,11 @@
+/*
+print:-
+     *
+    * *
+   * * * 
+ * * * * *
+  */
+ 
 #include<bits/stdc++.h>
 using namespace std;
 void print7(int n){
